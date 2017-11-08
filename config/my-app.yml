@@ -1,2 +1,3 @@
 my-property:
   name: Test123
+  password: '{cipher}18f00f977f1dd87724f7099fbd197e4bce60872c80c1624e969a6e47906771c8'
